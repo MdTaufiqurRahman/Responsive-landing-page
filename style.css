@@ -1,0 +1,34 @@
+h1, p, h5, h4, small{
+    font-family: Oswald;
+   
+}
+span{
+    color: rgb(214, 158, 54);
+    font-size: 70px;
+}
+#name-big{
+    font-size: 70px;
+}
+
+#nav-img{
+    width: 35%;
+}
+.image-width{
+    width: 100%;
+}
+.shopping-card{
+    width: 16%;
+}
+.footer-class{
+    text-align: center;
+}
+.card-footer{
+    display: flex;
+}
+.card-button{
+    margin-left: 150px;
+}
+.price{
+    color:rgb(214, 158, 54); ;
+}
+
